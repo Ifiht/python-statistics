@@ -5,7 +5,3 @@ git config --global user.name "Peter Pan"
 git config --global push.default simple
 git submodule init
 git submodule update
-#=====[ YFINANCE ]========#
-cd /home/jovyan/yfinance
-python ./setup.py build
-python ./setup.py install
