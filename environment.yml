@@ -1,0 +1,14 @@
+name: finaid
+channels:
+  - conda-forge
+  - ranaroussi
+dependencies:
+  - matplotlib
+  - lxml
+  - pandas
+  - numpy
+  - requests
+  - keras
+  - scikit-learn
+  - wget
+  - prophet
